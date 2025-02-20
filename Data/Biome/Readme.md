@@ -4,6 +4,7 @@ This map delineates the 14 biomes and 8 biogeographic realms, facilitating compa
 Ecoregions are essential land units that host distinct natural communities and species. They serve as a foundational framework for biogeographical and macroecological research, biodiversity assessments, and conservation planning. This framework has garnered widespread adoption among researchers and conservation organisations, guiding biodiversity analysis and prioritisation.
 
 The accompanying files (`wwf_Biomes.*`) correspond to ESRI shapefiles, which are a geospatial vector data format utilised in geographic information system (GIS) software. The following five files are included:
+
 • `wwf_Biomes.shp`: Contains the feature geometry.
 • `wwf_Biomes.shx`: Represents the shape index format, providing a positional index of the feature geometry for efficient seeking.
 • `wwf_Biomes.dbf`: Contains columnar attributes for each shape in dBase IV format.
